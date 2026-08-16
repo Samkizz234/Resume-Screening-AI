@@ -1,11 +1,51 @@
-___pycache__/
-*.pyc
-.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda / virtual environments
+.conda/
+conda-env/
 venv/
 env/
-.ipynb_checkpoints/
-.env
-*.log
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Python environments
+*.egg-info/
+
+# Large datasets
 *.csv
 *.xlsx
+*.xls
 *.zip
+*.rar
+*.7z
+
+# ML models
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.pt
+*.pth
+*.onnx
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary files
+*.tmp
+*.temp
