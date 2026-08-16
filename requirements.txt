@@ -1,0 +1,22 @@
+# Core Data Science
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+scipy>
+joblib
+
+# Natural Language Processing
+nltk
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Resume / Document Processing
+PyMuPDF
+python-docx
+
+# Web Application / Deployment
+streamlit
